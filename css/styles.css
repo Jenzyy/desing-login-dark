@@ -146,10 +146,8 @@ body {
   .login__form {
     width: 90%;
     align-self: flex-start;
- 
   }
 }
-
 @media screen and (min-width: 900px) {
   .login__title span {
     display: inline;
